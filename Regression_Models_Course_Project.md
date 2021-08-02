@@ -1,6 +1,6 @@
 # Regression Models Course Project
 Massimiliano Figini  
-13 gennaio 2017  
+January 13, 2017  
 
 
 
